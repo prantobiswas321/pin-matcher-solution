@@ -27,6 +27,10 @@ body {
     font-size: 20px;
     text-align: center;
 }
+.generate-btn:hover{
+    background-color: #39458C;
+    border: 8px solid #495BC3;
+}
 .generate-btn:focus{
     outline: none;
     box-shadow: none;
